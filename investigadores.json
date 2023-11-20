@@ -1,61 +1,61 @@
 [
-    {"Region":"Arica y Parinacota",
+    {"Region":"ARICA Y PARINACOTA",
     "Hombres":69,
     "Mujeres":31},
 
-    {"Region":"Tarapaca",
+    {"Region":"TARAPACÁ",
     "Hombres":68,
     "Mujeres":32},
 
-    {"Region":"Antofagasta",
+    {"Region":"ANTOFAGASTA",
     "Hombres":67,
     "Mujeres":33},
 
-    {"Region":"Atacama",
+    {"Region":"ATACAMA
     "Hombres":80,
     "Mujeres":20},
 
-    {"Region":"Coquimbo",
+    {"Region":"COQUIMBO",
     "Hombres":68,
     "Mujeres":32},
 
-    {"Region":"Valparaiso",
+    {"Region":"VALPARAÍSO",
     "Hombres":69,
     "Mujeres":31},
 
-    {"Region":"Metropolitana",
+    {"Region":"METROPOLITANA",
     "Hombres":65,
     "Mujeres":35},
 
-    {"Region":"OHiggins",
+    {"Region":"LIBERTADOR BERNARDO O'HIGGINS",
     "Hombres":64,
     "Mujeres":36},
 
-    {"Region":"Maule",
+    {"Region":"MAULE",
     "Hombres":66,
     "Mujeres":34},
 
-    {"Region":"Biobio",
+    {"Region":"BIOBÍO",
     "Hombres":67,
     "Mujeres":33},
 
-    {"Region":"La Araucania",
+    {"Region":"ARAUCANÍA",
     "Hombres":63,
     "Mujeres":37},
 
-    {"Region":"Los Rios",
+    {"Region":"LOS RÍOS",
     "Hombres":66,
     "Mujeres":34},
 
-    {"Region":"Los Lagos",
+    {"Region":"LOS LAGOS",
     "Hombres":64,
     "Mujeres":36},
 
-    {"Region":"Aysen",
+    {"Region":"AYSÉN",
     "Hombres":59,
     "Mujeres":41},
 
-    {"Region":"Magallanes",
+    {"Region":"MAGALLANES",
     "Hombres":61,
     "Mujeres":39}
 ]
